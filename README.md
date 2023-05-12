@@ -20,4 +20,4 @@ type "npm run start" to start
 
 ## Assets
 
-![Alt text](../../Desktop/Screenshot%202023-05-11%20at%206.48.51%20PM.png)
+![Alt text](img/Screenshot%202023-05-11%20at%206.48.51%20PM.png)
